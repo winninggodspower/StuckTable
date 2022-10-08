@@ -3,3 +3,27 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+
+body{
+    background-color: #1f2034;
+}
+
+.top-section button{
+    background-color: #393f64 !important;
+}
+
+.top-section button:hover{
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.table,thead tr td, tbody tr td{
+    background-color: #2d2f4b !important;
+}
+
+.collapse-table >*{
+    background-color:  #1f2034 !important;
+}
+
+tr{
+    padding-bottom: 50px !important;
+}
